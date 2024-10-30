@@ -304,3 +304,7 @@ java.lang.RuntimeException: Not a JSON object: null
 [04:19:28] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 8bdea040-13d1-3969-8ffd-99743ffc65ee
 [04:19:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 8bdea040-13d1-3969-8ffd-99743ffc65ee
 [04:19:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player dobu7 (8bdea040-13d1-3969-8ffd-99743ffc65ee) successfully connected to voice chat
+[04:19:51] [Server thread/INFO] [Console]: Unknown command. Type "/help" for help.
+[04:19:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Made dobu7 a server operator
+[04:19:59] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: dobu7 issued server command: /gamemode creative
+[04:19:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [dobu7: Set own game mode to Creative Mode]
